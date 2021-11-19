@@ -1,0 +1,4 @@
+#all exe file
+*.exe
+.main
+.env
